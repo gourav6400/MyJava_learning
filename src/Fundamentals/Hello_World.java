@@ -8,7 +8,7 @@ public class Hello_World {
 		
 		System.out.println("Hello world");
 		//sysout space ctrl
-		
+		System.out.println("Hello world");
 	}
 
 }
