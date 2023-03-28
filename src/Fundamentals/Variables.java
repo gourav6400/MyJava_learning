@@ -9,7 +9,7 @@ public class Variables {
     static int d;
     
     
-    
+   
     
     
     //function definition:
